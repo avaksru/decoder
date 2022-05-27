@@ -1,21 +1,3 @@
-Theengs Decoder project aims to provide an efficient, portable and lightweight library for Internet of Things messages decoding.
+{"servicedatauuid":"0xfe95","brand":"Xiaomi","model":"Mi Jia round","model_id":"LYWSDCGQ","tempc":26.3,"tempf":79.34,"hum":39.5,"last":129472,"batt":82}
 
-![Iot](/docs/img/Theengs_decoder_iot_chain.jpg)
-
-Sensors and devices use chains of data to communicate to gateways, computers, servers. Enabling them to have lightweight and fast communication.
-On the other hand we have a huge diversity of communication methods, resulting in the sensors or devices being closed to one ecosystem or a few.
-
-Theengs decoder library translates these data chains into human readable data leveraging the well known data interchange format JSON. This format can easily be integrated into different systems or software.
-
-![Overview](/docs/img/Theengs_decoder.jpg)
-
-It's also a simplified way of defining the thing properties and how to decode these.
-
-Theengs Decoder can be used on memory constraint environments like micro controllers (ESP32, ESP8266, Arduino), on PC or on a Unix server.
-Unit testing assures that the modification done on the library doesn't affect previous capabilities.
-
-In a few words:
-* Light
-* Portable
-* Expandable
-* Interoperable
+{"servicedatauuid":"0xfe95","brand":"Xiaomi","model":"Cleargrass clock","model_id":"LYWSD02","tempc":25.5,"tempf":77.9,"last":371751,"batt":25,"hum":41}
